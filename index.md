@@ -1,46 +1,59 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Hacktoolkit
+tagline:
+github_project: hacktoolkit/hacktoolkit
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+### What is it?
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Hacktoolkit is a collection of bootstrap code that you can use to start your next project, whether it's a website or mobile app.
 
-## Update Author Attributes
+### Why Hacktoolkit?
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+The best way to get better at programming is to write code yourself, and learn from well-written code by others.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+Hackathons are typically 24-48 programming competitions where a lot of programming nerds and geeks get together and build a functioning product from scratch--well, the rules typically are that all of your code and designs have to be done during the hackathon, not before--but using open-source code is an exception.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+We aim to provide a level playing field for all hackathon attendees so that everyone has access to commonly written code, so that they can focus on **creating** (designing, developing), **rather than reinventing** at 24-48 hour hackathons.
 
-    $ rm -rf _posts/core-samples
+Here are some things you'll find among the corpus of code at Hacktoolkit:
 
-Here's a sample "posts list".
+* Bootstrap code for websites and mobile apps
+* Complete working demos and prototypes
+* Implemented design patterns
+* Algorithms and data structures in various languages, from simple to complex
+* Working code that integrates with all of the popular APIs--Android, iOS, Google Play Services, Parse, and more!
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Even if you're not using Hacktoolkit to build your hackathon-winning entry, but just working on a project as a hobby for yourself, Hacktoolkit can help you get started.
 
-## To-Do
+### Okay, I'm convinced. How do I get started?
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+* Clone the repository (`git clone git@github.com:hacktoolkit/hacktoolkit.git`) and start using it!
+* Fork the repository if you want to contribute.
+* Issue pull requests for new things to incorporate back into the `hacktoolkit` library. Formatting requirements TBD (provide a README.md and description of what your code does).
 
+I'll add your name to the contributors list! If you would like to be a maintainer for Hacktoolkit, please contact me ([@jontsai](https://github.com/jontsai)).
 
+### The nitty-gritty
+
+In case you're the type interested in reading the fine print, here are the details.
+
+#### Rules and Ethics
+
+* Any code that has been in the repository for a while is fair game for inclusion in hackathon competitions.
+* For using newly added code, you should consult with your particular hackathon event's judges.
+* Typically, you would add your code to Hacktoolkit as early as possible, and email or post a message to the discussion board for the hackathon event.
+
+#### License
+
+* All code uploaded to Hacktoolkit will be available under the MIT license. I spent hours reading about different open source licenses, and it seems that MIT can actually be incorporated into commercial products.
+* Google's Android project uses the Apache license, but I think I slightly like the MIT license better. Subjectively, the majority of the cool open source projects that I've seen use MIT.
+* GNU license, or any variant thereof, is definitely not an option.
+* IANAL (I am not a lawyer), so would anyone who is more knowledgeable than I on the subject please educate me?
+
+### Authors and Contributors
+
+* Jonathan Tsai ([@jontsai](https://github.com/jontsai)), founded Hacktoolkit in September 2013
+>>>>>>> migrating website to be based on jekyll-bootstrap
