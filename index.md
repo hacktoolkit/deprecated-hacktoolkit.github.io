@@ -6,6 +6,9 @@ github_project: hacktoolkit/hacktoolkit
 ---
 {% include JB/setup %}
 
+### News
+Please like our new Facebook page, <https://www.facebook.com/pages/Hacktoolkit/507714549322068>. We need 25 likes to get a named url.
+
 ### What is it?
 
 Hacktoolkit is a collection of bootstrap code that you can use to start your next project, whether it's a website or mobile app.
