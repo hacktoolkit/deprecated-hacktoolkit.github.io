@@ -1,0 +1,37 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+.vspace(@height: 100px) {
+    height: @height;
+}
+.vspace-200 {
+    .vspace(200px);
+}
+
+.htk-logo(@logo-size: 100px) {
+    margin: auto;
+    text-align: center;
+    font-family: Consolas, monospace, serif;
+    .htk-logo-htk {
+        margin: auto;
+        text-align: center;
+        font-family: Courier New, monospace, serif;
+        font-size: @logo-size;
+        font-weight: bold;
+    }
+    .htk-logo-curly-braces {
+        margin: auto;
+        text-align: center;
+        color: #0000ff;
+        font-size: round((@logo-size / 1.6), 3);
+    }
+}
+
+.htk-logo-100 {
+    .htk-logo(100px);
+}
+
+.htk-logo-300 {
+    .htk-logo(300px);
+}
