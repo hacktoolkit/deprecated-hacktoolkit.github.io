@@ -59,4 +59,3 @@ In case you're the type interested in reading the fine print, here are the detai
 ### Authors and Contributors
 
 * Jonathan Tsai ([@jontsai](https://github.com/jontsai)), founded Hacktoolkit in September 2013
->>>>>>> migrating website to be based on jekyll-bootstrap
