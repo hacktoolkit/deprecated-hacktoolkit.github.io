@@ -7,7 +7,7 @@ github_project: hacktoolkit/hacktoolkit
 {% include JB/setup %}
 
 ### News
-Please like our new Facebook page, <https://www.facebook.com/pages/Hacktoolkit/507714549322068>. We need 25 likes to get a named url.
+Please like our new Facebook page, <https://www.facebook.com/pages/Hacktoolkit/507714549322068>. We need 13 more likes to get a named url!
 
 ### What is it?
 
@@ -37,7 +37,7 @@ Even if you're not using Hacktoolkit to build your hackathon-winning entry, but 
 * Fork the repository if you want to contribute.
 * Issue pull requests for new things to incorporate back into the `hacktoolkit` library. Formatting requirements TBD (provide a README.md and description of what your code does).
 
-I'll add your name to the contributors list! If you would like to be a maintainer for Hacktoolkit, please contact me ([@jontsai](https://github.com/jontsai)).
+I'll add your name to the contributors list! If you would like to be a maintainer for Hacktoolkit, please contact <hello@hacktoolkit.com>.
 
 ### The nitty-gritty
 
@@ -45,17 +45,10 @@ In case you're the type interested in reading the fine print, here are the detai
 
 #### Rules and Ethics
 
-* Any code that has been in the repository for a while is fair game for inclusion in hackathon competitions.
-* For using newly added code, you should consult with your particular hackathon event's judges.
+* Any code that has been in the repository is fair game for inclusion in hackathon competitions, but you should consult with your particular hackathon event's judges.
 * Typically, you would add your code to Hacktoolkit as early as possible, and email or post a message to the discussion board for the hackathon event.
 
 #### License
 
-* All code uploaded to Hacktoolkit will be available under the MIT license. I spent hours reading about different open source licenses, and it seems that MIT can actually be incorporated into commercial products.
-* Google's Android project uses the Apache license, but I think I slightly like the MIT license better. Subjectively, the majority of the cool open source projects that I've seen use MIT.
-* GNU license, or any variant thereof, is definitely not an option.
-* IANAL (I am not a lawyer), so would anyone who is more knowledgeable than I on the subject please educate me?
+All code uploaded to Hacktoolkit will be available under the [MIT license](http://opensource.org/licenses/MIT).
 
-### Authors and Contributors
-
-* Jonathan Tsai ([@jontsai](https://github.com/jontsai)), founded Hacktoolkit in September 2013
