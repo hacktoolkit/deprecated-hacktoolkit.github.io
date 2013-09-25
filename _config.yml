@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Hacktoolkit
-tagline: Win hackathons by using bootstrap code to build complete websites and apps in 24 hours.
+tagline: Open-source library. Win hackathons by using refined APIs and bootstrap code to build complete websites and apps in 24 hours.
 author :
   name : Hacktoolkit
   email : hello@hacktoolkit.com
