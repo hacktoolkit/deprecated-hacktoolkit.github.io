@@ -7,7 +7,7 @@ github_project: hacktoolkit/hacktoolkit
 {% include JB/setup %}
 
 ### News
-Please like our new Facebook page, <https://www.facebook.com/pages/Hacktoolkit/507714549322068>. We need 13 more likes to get a named url!
+Please like our new Facebook page, <https://www.facebook.com/pages/Hacktoolkit/507714549322068>. We need 10 more likes to get a named url!
 
 ### What is it?
 
