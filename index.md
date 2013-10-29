@@ -52,5 +52,7 @@ See [Hackbright Academy's Code of Conduct for Hacakthons](http://www.hackbrighta
 
 #### License
 
-All code uploaded to Hacktoolkit will be available under the [MIT license](http://opensource.org/licenses/MIT).
+Except where otherwise noted, the following license rules apply:
 
+* All code uploaded to [Hacktoolkit](http://hacktoolkit.com) and its [GitHub repositories](https://github.com/hacktoolkit) is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+* All content on this site and documentation for the [Hacktoolkit project](https://github.com/hacktoolkit/hacktoolkit) is licensed under a Creative Commons Attribution 3.0 License
