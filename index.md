@@ -7,7 +7,7 @@ github_project: hacktoolkit/hacktoolkit
 {% include JB/setup %}
 
 ### News
-Please like our new Facebook page, <https://www.facebook.com/pages/Hacktoolkit/507714549322068>. We need 10 more likes to get a named url!
+Please like our new Facebook page, <https://www.facebook.com/hacktoolkit>.
 
 ### What is it?
 
@@ -47,6 +47,8 @@ In case you're the type interested in reading the fine print, here are the detai
 
 * Any code that has been in the repository is fair game for inclusion in hackathon competitions, but you should consult with your particular hackathon event's judges.
 * Typically, you would add your code to Hacktoolkit as early as possible, and email or post a message to the discussion board for the hackathon event.
+
+See [Hackbright Academy's Code of Conduct for Hacakthons](http://www.hackbrightacademy.com/code_of_conduct_for_hackathons).
 
 #### License
 
