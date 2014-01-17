@@ -8,9 +8,9 @@ github_project: hacktoolkit/hacktoolkit
 
 ### News
 
-[Subscribe to the Hacktoolkit newsletter](http://eepurl.com/MBjjf)
+For updates, please [subscribe to the Hacktoolkit newsletter](http://eepurl.com/MBjjf)
 
-Please like our new Facebook page, <https://www.facebook.com/hacktoolkit>.
+Also, please like our Facebook page, <https://www.facebook.com/hacktoolkit>.
 
 ### What is it?
 
