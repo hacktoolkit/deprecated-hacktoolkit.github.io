@@ -19,6 +19,11 @@ author :
   twitter : hacktoolkit
 #  feedburner : feedname
 
+analytics :
+  google :
+    tracking_id : 'UA-43807579-1'
+    domain : www.hacktoolkit.com
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -27,7 +32,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://hacktoolkit.com
+production_url : http://www.hacktoolkit.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -100,7 +105,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false
     google : 
         tracking_id : 'UA-43807579-1'
     getclicky :
