@@ -24,6 +24,12 @@ analytics :
     tracking_id : 'UA-43807579-1'
     domain : www.hacktoolkit.com
 
+verifications :
+  alexa : ha120wncwHtU4dhNYW5TlMgVlco
+  bing : 083FDC17F2126892E9A310CDA4132FF0
+  google : OaOHJNILNNt0nQ4G1eyD71yLV4BvO8V6aoL3LAz-ofA
+  yandex : 62e83f998d9a17f5
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
