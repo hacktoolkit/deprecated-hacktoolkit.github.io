@@ -20,7 +20,7 @@ Hacktoolkit is a collection of bootstrap code that you can use to start your nex
 
 The best way to get better at programming is to write code yourself, and learn from well-written code by others.
 
-Hackathons are typically 24-48 programming competitions where a lot of programming nerds and geeks get together and build a functioning product from scratch--well, the rules typically are that all of your code and designs have to be done during the hackathon, not before--but using open-source code is an exception.
+Hackathons are typically 24-48 hour programming competitions where a lot of programming nerds and geeks get together and build a functioning product from scratch--well, the rules typically are that all of your code and designs have to be done during the hackathon, not before--but using open-source code is an exception.
 
 We aim to provide a level playing field for all hackathon attendees so that everyone has access to commonly written code, so that they can focus on **creating** (designing, developing), **rather than reinventing** at 24-48 hour hackathons.
 
