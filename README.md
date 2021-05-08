@@ -1,6 +1,11 @@
+# DEPRECATED
+
+Deprecated in favor of new site at: https://github.com/hacktoolkit/www.hacktoolkit.com
+
 hacktoolkit.com
 ===============
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![Build Status](https://travis-ci.org/hacktoolkit/hacktoolkit.github.io.png?branch=master)](https://travis-ci.org/hacktoolkit/hacktoolkit.github.io)
 
 Source code for Hacktoolkit website (<http://hacktoolkit.com>)
